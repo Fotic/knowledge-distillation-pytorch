@@ -27,25 +27,25 @@ experiment environment
 ## 2. Models
 Available teacher and student networks including:  
 'resnet32', 'ResNet18', 'ResNet34', 'ResNet50', 'ResNet101', 'ResNet152',  
-'mobilenet_v2',  
+'mobilenet_v2',
 'shufflenet_v2_x0_5', 'shufflenet_v2_x1_0', 'shufflenet_v2_x1_5', 'shufflenet_v2_x2_0',  
 'squeezenet1_0', 'squeezenet1_1'  
 
-|networks|parameters|  
-|:-------:|:-------:|  
-|resnet32||   
-|ResNet18||   
-|ResNet34||   
-|ResNet50||   
-|ResNet101||  
-|ResNet152||  
-|mobilenet_v2||  
-|shufflenet_v2_x0_5||  
-|shufflenet_v2_x1_0||  
-|shufflenet_v2_x1_5||  
-|shufflenet_v2_x2_0||  
-|squeezenet1_0||  
-|squeezenet1_1||  
+|networks|
+|:-------:|
+|resnet32| 
+|ResNet18|
+|ResNet34|
+|ResNet50| 
+|ResNet101|
+|ResNet152|
+|mobilenet_v2|
+|shufflenet_v2_x0_5|
+|shufflenet_v2_x1_0|
+|shufflenet_v2_x1_5|
+|shufflenet_v2_x2_0|
+|squeezenet1_0|
+|squeezenet1_1|
 
 ## 3. Distillation Methods  
 ① knowledge distillation [Distilling the Knowledge in a Neural Network] (https://arxiv.org/abs/1503.02531)  
