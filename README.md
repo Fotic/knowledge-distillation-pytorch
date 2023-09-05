@@ -1,4 +1,3 @@
-# knowledge-distillation
 Knowledge Distillation on Pytorch Models
 
 ## Requirements
