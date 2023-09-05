@@ -3,8 +3,8 @@
 ## Requirements
 
 experiment environment
-- python 3.10.13
-- pytorch 2.1.0.dev20230825+cu121
+- Python 3.10.13
+- PyTorch 2.1.0.dev20230825+cu121
 
 
 ## 1. Datasets  
